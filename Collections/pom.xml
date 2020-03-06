@@ -8,14 +8,14 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
   
 <groupId>com.epam</groupId>
   
-<artifactId>CollectionFramework</artifactId>
+<artifactId>Collections</artifactId>
   
 <version>0.0.1-SNAPSHOT</version>
   
 <packaging>jar</packaging>
 
   
-<name>CollectionFramework</name>
+<name>Collections</name>
   
 <url>http://maven.apache.org</url>
 
